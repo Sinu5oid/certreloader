@@ -10,6 +10,10 @@ This repository contains a distributable package with a convenient autoload feat
 $ go get gituhb.com/sinu5oid/certreloader
 ```
 
+## Example usage
+
+Check [server](cmd/server) small example service template for usage example
+
 ## Clone the project
 
 ```
